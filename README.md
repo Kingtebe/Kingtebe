@@ -1,16 +1,16 @@
-### Hi there 👋
+<h4 align="center">
+    Hai 👋
 
-<!--
-**Kingtebe/Kingtebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h3>
 
-Here are some ideas to get you started:
+<h6 align="center">
+   Welcome Slurd :)
+</h4 aling="center">
+ 
+![github stats](https://github-readme-stats.vercel.app/api?username=Kingtebe&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MY SOCIAL MEDIA
+* [<img alt="Kingtebe's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Kingtebe)<br />
+
