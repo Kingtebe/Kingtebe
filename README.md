@@ -4,9 +4,9 @@
 ## MY GITHUB STATS
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Kingtebe alt=Kingtebe /> </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Kingtebe&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=FaaL-TV&show_icons=true&theme=dark)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaL-TV&layout=compact" alt="Top language=theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingtebe&layout=compact" alt="Top language=theme=dark">
 
 ## MY SOCIAL MEDIA
 * [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Kingtebe)<br />
