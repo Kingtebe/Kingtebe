@@ -1,4 +1,5 @@
 ## Hey 👋, I'm Kingtebe
+
 [![Gmail Badge](https://img.shields.io/badge/-Kingtebe01@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Kingtebe01@gmail.com)](mailto:Kingtebe01@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Kingtebe-black?style=flat&logo=github&logoColor=white&link=https://github.com/Kingtebe/)](https://www.github.com/Kingtebe/) <p align='left'></p>
 ## MY GITHUB STATS
@@ -10,3 +11,6 @@
 
 ## MY SOCIAL MEDIA
 * [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Kingtebe)<br />
+* [<img alt="Dunia-Kode's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://bit.ly/3eCOSoK)<br />
+* [<img alt="Dunia-Kode's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6281368646011)<br />
+* [<img alt="Dunia-Kode's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/anker_2412)<br />
