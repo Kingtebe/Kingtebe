@@ -1,5 +1,5 @@
 <h4 align="center">
-    Hai I'm Kingtebe 👋
+    Hai Nyet I'm Kingtebe 👋
 
 </h3>
 
