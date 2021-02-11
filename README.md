@@ -13,4 +13,4 @@
 
 ### MY SOCIAL MEDIA
 * [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Kingtebe)<br />
-* [<img alt="Youtube" align="left" width="24px" src="https://cdn.jsdelvr.net/npm/simple-icon@v3/icons/github.svg" /> <b>Youtube Channel</b>](https://
+* [<img alt="Youtube Github" align="left" width="24px" src="https://cdn.jsdelvr.net/npm/simple-icon@v3/icons/github.svg" /> <b>Youtube Channel</b>](https://
