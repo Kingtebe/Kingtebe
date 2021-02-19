@@ -8,7 +8,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kingtebe&show_icons=true&theme=dark)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingtebe&layout=compact" alt="Top language=theme=dark">
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingtebe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 ## MY SOCIAL MEDIA
 * [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Kingtebe)<br />
 * [<img alt="FaaL TV's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UCkvRV5y6_EcVdBzfp05Kf1g)<br />
