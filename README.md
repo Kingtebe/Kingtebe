@@ -1,6 +1,6 @@
 ## Hai 👋, I'm Kingtebe
 
-<img src="https://raw.githubusercontent.com/Kingtebe/Kingtebe/master/img/indl.gif" width=100><br>
+<img src="https://raw.githubusercontent.com/Kingtebe/Kingtebe/master/img/indo.gif" width=100><br>
 
 ## MY GITHUB STATS
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Kingtebe alt=Kingtebe /> </p>
