@@ -13,5 +13,5 @@
 
 ## MY SOCIAL MEDIA
 * [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Kingtebe)<br />
-* [<img alt="FaaL TV's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UCkvRV5y6_EcVdBzfp05Kf1g)<br />
+* [<img alt="FaaL TV's Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UCkvRV5y6_EcVdBzfp05Kf1g)<br />
 * [<img alt="r__ibnu's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/r__ibnu)<br />
