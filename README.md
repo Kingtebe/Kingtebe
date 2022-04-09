@@ -1,17 +1,11 @@
-## Hai 👋, I'm Kingtebe
+## Hai I'M , [Musk-ID](https://github.com/Musk-ID) 👋
 
-<p align="center">
-   <img src="https://raw.githubusercontent.com/Kingtebe/Kingtebe/master/img/indo.gif" width=1000>
-</p>
+<img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
-## MY GITHUB STATS
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Kingtebe alt=Kingtebe /> </p>
+![](https://komarev.com/ghpvc/?username=Musk-ID&color=blue)
+<a href="mailto:idmusk99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-idmusk99@gmail.com-red?style=flat-square&logo=gmail"></a>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Kingtebe&show_icons=true&theme=dark)
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingtebe&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-## MY SOCIAL MEDIA
-* [<img alt="Kingtebe Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/Kingtebe)<br />
-* [<img alt="FaaL TV's Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://www.youtube.com/channel/UCkvRV5y6_EcVdBzfp05Kf1g)<br />
-* [<img alt="r__ibnu's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/r__ibnu)<br />
+![Musk-ID github stats](https://github-readme-stats.vercel.app/api?username=Musk-ID&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musk-ID&layout=compact)](https://github.com/Musk-ID)
