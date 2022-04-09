@@ -1,4 +1,4 @@
-## Hi I'M , [Kingtebe](https://github.com/Kingtebe) 👋
+## Hai I'M , [Kingtebe](https://github.com/Kingtebe) 👋
 
 <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
