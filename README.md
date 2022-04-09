@@ -3,7 +3,7 @@
 <img align='right' src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 
 ![](https://komarev.com/ghpvc/?username=Kingtebe&color=blue)
-<a href="mailto: kingtebe01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-idmusk99@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="mailto: kingtebe01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kingtebe01@gmail.com-red?style=flat-square&logo=gmail"></a>
 
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
